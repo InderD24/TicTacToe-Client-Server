@@ -1,4 +1,4 @@
 import socket
 
-server = socket.gethostbyname(socket.gethostname())
-print(server)
+serverr = socket.gethostbyname(socket.gethostname())
+print(serverr)
